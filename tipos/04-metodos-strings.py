@@ -1,0 +1,10 @@
+animal = "  Gatito Hermoso "
+print(animal.upper())
+print(animal.lower())
+print(animal.strip().capitalize())
+print(animal.title())
+print(animal.rstrip())
+print(animal.lstrip())
+print(animal.find("to"))
+print(animal.replace("tito", "to"))
+print("Her" in animal)
